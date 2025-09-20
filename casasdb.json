@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "title": "Casa en Miraflores",
+    "image": "imagenes/01.jpg",
+    "description": "Hermosa casa con vista al mar en Miraflores, ideal para familias.",
+    "price": "$250,000",
+    "location": "Miraflores, Lima",
+    "area": "180 m²",
+    "rooms": 4,
+    "bathrooms": 3
+  },
+  {
+    "id": 2,
+    "title": "Departamento en San Isidro",
+    "image": "imagenes/02.jpg",
+    "description": "Moderno departamento con balcón, cerca al Golf.",
+    "price": "$180,000",
+    "location": "San Isidro, Lima",
+    "area": "120 m²",
+    "rooms": 3,
+    "bathrooms": 2
+  },
+  {
+    "id": 3,
+    "title": "Casa de campo en Cieneguilla",
+    "image": "imagenes/03.jpeg",
+    "description": "Amplia casa de campo con jardín y piscina privada.",
+    "price": "$350,000",
+    "location": "Cieneguilla, Lima",
+    "area": "500 m²",
+    "rooms": 5,
+    "bathrooms": 4
+  },
+  {
+    "id": 4,
+    "title": "Departamento en Barranco",
+    "image": "imagenes/04.jpg",
+    "description": "Departamento artístico con vista a los puentes de Barranco.",
+    "price": "$220,000",
+    "location": "Barranco, Lima",
+    "area": "140 m²",
+    "rooms": 3,
+    "bathrooms": 2
+  },
+  {
+    "id": 5,
+    "title": "Casa en La Molina",
+    "image": "imagenes/05.jpeg",
+    "description": "Casa moderna con jardín amplio y piscina.",
+    "price": "$400,000",
+    "location": "La Molina, Lima",
+    "area": "350 m²",
+    "rooms": 6,
+    "bathrooms": 5
+  },
+  {
+    "id": 6,
+    "title": "Departamento en Surco",
+    "image": "imagenes/06.jpg",
+    "description": "Departamento con terraza y acabados de lujo.",
+    "price": "$190,000",
+    "location": "Santiago de Surco, Lima",
+    "area": "130 m²",
+    "rooms": 3,
+    "bathrooms": 3
+  },
+  {
+    "id": 7,
+    "title": "Casa colonial en Cusco",
+    "image": "imagenes/07.jpg",
+    "description": "Hermosa casa colonial en el centro histórico de Cusco.",
+    "price": "$280,000",
+    "location": "Cusco, Perú",
+    "area": "200 m²",
+    "rooms": 4,
+    "bathrooms": 3
+  },
+  {
+    "id": 8,
+    "title": "Departamento en Arequipa",
+    "image": "imagenes/08.jpg",
+    "description": "Moderno departamento con vista a los volcanes.",
+    "price": "$210,000",
+    "location": "Arequipa, Perú",
+    "area": "150 m²",
+    "rooms": 3,
+    "bathrooms": 2
+  },
+  {
+    "id": 9,
+    "title": "Casa de playa en Punta Hermosa",
+    "image": "imagenes/09.jpg",
+    "description": "Casa frente al mar con terraza panorámica.",
+    "price": "$500,000",
+    "location": "Punta Hermosa, Lima",
+    "area": "420 m²",
+    "rooms": 5,
+    "bathrooms": 4
+  },
+  {
+    "id": 10,
+    "title": "Departamento en Magdalena",
+    "image": "imagenes/10.jpg",
+    "description": "Departamento acogedor cerca al malecón.",
+    "price": "$160,000",
+    "location": "Magdalena del Mar, Lima",
+    "area": "110 m²",
+    "rooms": 2,
+    "bathrooms": 2
+  },
+  {
+    "id": 11,
+    "title": "Casa en Trujillo",
+    "image": "imagenes/11.jpg",
+    "description": "Casa amplia cerca al centro histórico de Trujillo.",
+    "price": "$270,000",
+    "location": "Trujillo, Perú",
+    "area": "250 m²",
+    "rooms": 5,
+    "bathrooms": 4
+  },
+  {
+    "id": 12,
+    "title": "Departamento en Piura",
+    "image": "imagenes/12.jpg",
+    "description": "Luminoso departamento en zona céntrica de Piura.",
+    "price": "$150,000",
+    "location": "Piura, Perú",
+    "area": "100 m²",
+    "rooms": 2,
+    "bathrooms": 2
+  }
+]

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>INMOBILIARIAS PERÚ</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <div id="menu-icon" class="menu-icon">☰</div>
+      <h1>INMOBILIARIAS PERÚ</h1>
+      <nav id="menu" class="hidden">
+        <ul>
+          <li><a href="#">Inicio</a></li>
+          <li><a href="contacto.html">Contáctanos</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <div class="casas-grid"></div>
+    </main>
+
+    <div id="casasModal" class="modal hidden">
+      <div class="modal-content">
+        <span class="close-btn">&times;</span>
+        <div class="modal-body">
+          <div class="modal-image">
+            <img id="modalImage" src="" alt="" />
+          </div>
+          <div class="modal-details">
+            <h2 id="modalTitle"></h2>
+            <div class="modal-info"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="casas.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
